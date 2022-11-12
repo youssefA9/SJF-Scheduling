@@ -1,2 +1,2 @@
-# SJF Scheduling
+# CLI
  

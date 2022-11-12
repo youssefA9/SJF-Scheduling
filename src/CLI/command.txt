@@ -1,0 +1,17 @@
+cd
+ls
+cp
+cat
+more
+|
+>
+>>
+mkdir
+rmdir
+mv
+rm
+args
+date
+help
+pwd
+clear

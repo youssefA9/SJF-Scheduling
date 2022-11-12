@@ -1,0 +1,17 @@
+arg1 => sourcePath, arg2 => destPath
+arg => path
+arg1 => sourcePath, arg2 => destPath
+arg1 => sourcePath, arg2 => fileName
+arg1 => path, arg2 => realPath
+arg1 => prevCmdOutput, arg2 => command
+
+
+arg1 => path, arg2 => fileName
+arg1 => path, arg2 => fileName
+arg1 => filePath, arg2 => destPath
+arg1 => path, arg2 => fileName
+
+
+
+arg => file Path
+
